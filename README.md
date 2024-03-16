@@ -16,3 +16,5 @@ Responsive Design: The website is designed to be responsive, ensuring a seamless
 2. Open the index.html file in your web browser.
 3. Browse through the recipes by scrolling or using the navigation bar.
 4. Click on the "Watch Recipe Video" links to view video demonstrations for each recipe.
+## Output
+![Bisi Bele Bath](https://github.com/chaithrabc/Karnataka-Cuisine-Recipes/blob/main/Output/img%201.png)

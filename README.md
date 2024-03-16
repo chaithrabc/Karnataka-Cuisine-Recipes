@@ -17,4 +17,4 @@ This is a simple website showcasing a collection of recipes featuring traditiona
 3. Browse through the recipes by scrolling or using the navigation bar.
 4. Click on the "Watch Recipe Video" links to view video demonstrations for each recipe.
 ## Output
-![Bisi Bele Bath](https://github.com/chaithrabc/Karnataka-Cuisine-Recipes/blob/main/Output/img%201.png)
+![Bisi Bele Bath](https://drive.google.com/file/d/1ggDO3T70wm84Km6nLNfhxJNM3ymYqk29/view?usp=drive_link)

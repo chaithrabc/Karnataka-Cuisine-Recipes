@@ -2,10 +2,10 @@
 This is a simple website showcasing a collection of recipes featuring traditional dishes from Karnataka, a state in southern India.
 
 ## Features
-**1. Recipe Listings:** Browse through a variety of Karnataka cuisine recipes.
-**2. YouTube Links:** Each recipe includes a link to a YouTube video demonstrating how to prepare it.
-**3. Navigation Bar:** Easy navigation with a navigation bar to jump to different sections of the website.
-**4. Responsive Design:** The website is designed to be responsive, ensuring a seamless experience across different devices.
+1. Recipe Listings: Browse through a variety of Karnataka cuisine recipes.
+2. YouTube Links: Each recipe includes a link to a YouTube video demonstrating how to prepare it.
+3. Navigation Bar: Easy navigation with a navigation bar to jump to different sections of the website.
+4. Responsive Design: The website is designed to be responsive, ensuring a seamless experience across different devices.
 ##Technologies Used
 **HTML:** Markup language used for structuring the website content.
 **CSS:** Styling language used for enhancing the visual presentation of the website.

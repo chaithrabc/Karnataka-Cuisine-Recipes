@@ -7,10 +7,10 @@ This is a simple website showcasing a collection of recipes featuring traditiona
 3. Navigation Bar: Easy navigation with a navigation bar to jump to different sections of the website.
 4. Responsive Design: The website is designed to be responsive, ensuring a seamless experience across different devices.
 ## Technologies Used
-**HTML:** Markup language used for structuring the website content.
-**CSS:** Styling language used for enhancing the visual presentation of the website.
-**YouTube Embeds:** Embedded YouTube videos for recipe demonstrations.
-**Responsive Design:** Media queries and flexible layouts for responsiveness.
+1. HTML: Markup language used for structuring the website content.
+2. CSS: Styling language used for enhancing the visual presentation of the website.
+3. YouTube Embeds: Embedded YouTube videos for recipe demonstrations.
+4. Responsive Design: Media queries and flexible layouts for responsiveness.
 ## How to Use
 1. Clone the repository to your local machine.
 2. Open the index.html file in your web browser.
